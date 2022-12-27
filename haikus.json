@@ -1,22 +1,19 @@
 [
     {
         "text": "The Summer rain stopped, \nin the middle of the night, \nI strolled on the bridge, \nlooking at the moom yonder, \nsmiling at the thought of you.",
-        "image": "PrincessKaguya.jpg"
+        "image": "moon.jpg"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
-        "image": "vinyltocat.jpeg"
+        "text": "The wind was rising, \nit brought in the dark rainclouds, \nraindrops start to fall, \nringing the copper chimes, \nI hear your voice calling me",
+        "image": "rain.jpg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
-        "image": "snowtocat_final.jpg"
+        "text": "Dreamy countenance, \ndrinking and dancing alone. \nI sat down and watched, \na heart breaking in the rain. \nDo you see me now? You asked.",
+        "image": "pain.jpg"
     },
     {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
-        "image": "Robotocat.jpeg"
-    },
-    {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
-        "image": "linktocat.jpg"
+        "text": "Dusty folio, \nhiding a red maple leaf. \nIn the candle light, \nI see you writing my name, \na new teardrop blurre old ink.",
+        "image": "folio.jpg"
     }
 ]
+    
